@@ -1,3 +1,4 @@
+
 #include <iostream>
 using namespace std;
 
@@ -5,7 +6,7 @@ using namespace std;
 int main()
 
 {
-int n=0,n=1;
+float n=0,i;
 cout<<"program to print number from 1 to n";
 cout<<"\n \nEnter the limit of the loop: ";
   cin>>n; 
