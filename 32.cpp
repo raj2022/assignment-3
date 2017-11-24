@@ -15,6 +15,6 @@ int main()
     num1=num1/10;
     dig++;
   }
-  cout<<"\n \nThe first digit of "<<num<<" is "<<F<<" and last digit is "<<L;
+  cout<<"\n \nThe first digit of "<<num<<" is "<<FIR<<" and last digit is "<<LST;
   return 0;
 }
